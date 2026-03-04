@@ -19,6 +19,6 @@ Role:
 
 UX Research, Wireframing, UI Design
 
-Outcome
+Outcome:
 
 Delivered a user-friendly travel solution that reduces planning complexity and improves booking efficiency.
